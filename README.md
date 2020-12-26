@@ -52,5 +52,6 @@ This part is still quite easy, but patience is needed.
 * Drag the XnConvert'd PNGs into ImageOptim and wait an order of magniture more minutes than the previous thing that was already quite a lot of minutes.
   * This will seem like a week but is actually just a few hours of your life that you won't get back. Consider doing the job you've been putting off for a while, it'll feel good when it's done.
 * Rename the PNGs to something sensible and drop into the respective waterfall directory. Accept that you spending time and compute cycles squeezing bytes from files is for the greater good, and the internet tubes will be less busy as a result. Yay.
+* Clear desktop of any detritus, and turn backups on again.
 
 That's it. Thanks for playing.
