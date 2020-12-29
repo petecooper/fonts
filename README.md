@@ -48,10 +48,12 @@ This part is still quite easy, but patience is needed.
 * When you have notification that the PDF to PNG stuff is complete, XnConvert will load the created PNGs into its input bin.
 * Use the Convert button in XnConvert to make PNGs. They will overwrite the originals on the desktop.
   * Optional step: do literally anything while this is underway, it can take many more minutes than the previous thing that took many minutes.
+  * Each PNG is typically ~1-2 megabytes at this stage, we're already seeing improvements.
 * While XnConvert is chewing through its workload, open ImageOptim and apply the settings as shown in `/tools/imageoptim settings - general.png`, `/tools/imageoptim settings - quality.png` & `/tools/imageoptim settings - optimisation level.png`.
-  * Yes, I'm using Insane optimisation on PNGs that XnConvert exported with zero compression. Fite me.
+  * Yes, I'm using Insane optimisation on PNGs that XnConvert exported with high compression. This is fine.
 * Drag the XnConvert'd PNGs into ImageOptim and even more minutes than the previous thing that was already quite a lot of minutes.
   * This will seem like a week, but isn't. Consider doing the job you've been putting off for a while, it'll feel good when it's done.
+  * Each PNG is typically <1 megabyte, thankfully.
 * Consider using the Again button on the lower right of the ImageOptim window, especially if you're still doing the thing you kept putting off.
 * Rename the PNGs to something sensible and drop into the respective waterfall directory.
   * Accept that you spending time and compute cycles squeezing bytes from files is for the greater good, and the internet tubes will be less busy as a result. Yay.
