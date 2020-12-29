@@ -3,6 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleName</key>
-	<string>fonts waterfall pdf to png</string>
+	<string>fonts waterfall pdf to png then xnconvert</string>
 </dict>
 </plist>
