@@ -43,6 +43,7 @@ This part is still quite easy, but patience is needed.
 * Cmd+P to open the print dialog, then follow the settings as laid out in the `/tools/waterfall pdf output settings.png` file.
 * Drop the created PDF onto `/tools/fonts waterfall pdf to png then xnconvert.app`, then allow some time for the PDF to make a lot of PNGs.
   * Optional step: do literally anything while this is underway, it can take many minutes.
+  * Each PNG is typically ~3-4 megabytes at this stage, the final product will be considerably fewer megabytes.
 * While this PDF to PNG magic is munching your CPU time, open XnConvert and apply the settings file from `/tools/xnconvert for waterfall png.xbs` using the XnConvert Actions panel and the diskette icon.
 * When you have notification that the PDF to PNG stuff is complete, XnConvert will load the created PNGs into its input bin.
 * Use the Convert button in XnConvert to make PNGs. They will overwrite the originals on the desktop.
