@@ -959,7 +959,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>replaceExisting</key>
-					<false/>
+					<true/>
 					<key>toDirectory</key>
 					<string>~/Desktop/waterfall png</string>
 				</dict>
