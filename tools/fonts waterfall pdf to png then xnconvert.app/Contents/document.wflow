@@ -141,7 +141,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>301.500000:259.000000</string>
+				<string>309.000000:259.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Display Notification.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -297,7 +297,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>301.500000:459.000000</string>
+				<string>309.000000:459.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Render PDF Pages as Images.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -773,138 +773,9 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>301.500000:672.000000</string>
+				<string>309.000000:672.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Rename Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
-			</dict>
-			<key>isViewVisible</key>
-			<true/>
-		</dict>
-		<dict>
-			<key>action</key>
-			<dict>
-				<key>AMAccepts</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Optional</key>
-					<true/>
-					<key>Types</key>
-					<array>
-						<string>com.apple.cocoa.path</string>
-					</array>
-				</dict>
-				<key>AMActionVersion</key>
-				<string>1.2.2</string>
-				<key>AMApplication</key>
-				<array>
-					<string>Finder</string>
-				</array>
-				<key>AMParameterProperties</key>
-				<dict>
-					<key>newName</key>
-					<dict>
-						<key>tokenizedValue</key>
-						<array>
-							<string>waterfall png</string>
-						</array>
-					</dict>
-					<key>targetLocation</key>
-					<dict>
-						<key>isPathPopUp</key>
-						<true/>
-						<key>variableUUIDsInMenu</key>
-						<array/>
-					</dict>
-				</dict>
-				<key>AMProvides</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Types</key>
-					<array>
-						<string>public.folder</string>
-					</array>
-				</dict>
-				<key>ActionBundlePath</key>
-				<string>/System/Library/Automator/New Folder.action</string>
-				<key>ActionName</key>
-				<string>New Folder</string>
-				<key>ActionParameters</key>
-				<dict>
-					<key>newName</key>
-					<string>waterfall png</string>
-					<key>targetLocation</key>
-					<string>~/Desktop</string>
-				</dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.Automator.MakeNewFolder</string>
-				<key>CFBundleVersion</key>
-				<string>1.2.2</string>
-				<key>CanShowSelectedItemsWhenRun</key>
-				<true/>
-				<key>CanShowWhenRun</key>
-				<true/>
-				<key>Category</key>
-				<array>
-					<string>AMCategoryFilesAndFolders</string>
-				</array>
-				<key>Class Name</key>
-				<string>NewFolderAction</string>
-				<key>InputUUID</key>
-				<string>F5D9E3FB-FEAE-4A81-885A-EEBDF043337F</string>
-				<key>Keywords</key>
-				<array>
-					<string>Folder</string>
-					<string>Create</string>
-					<string>Make</string>
-					<string>New</string>
-				</array>
-				<key>OutputUUID</key>
-				<string>FCAE5678-E543-4902-BF40-990D971D1DC9</string>
-				<key>UUID</key>
-				<string>7C96EA0C-FB6C-405A-BBE0-B882957EE816</string>
-				<key>UnlocalizedApplications</key>
-				<array>
-					<string>Finder</string>
-				</array>
-				<key>arguments</key>
-				<dict>
-					<key>0</key>
-					<dict>
-						<key>default value</key>
-						<string></string>
-						<key>name</key>
-						<string>newName</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>0</string>
-					</dict>
-					<key>1</key>
-					<dict>
-						<key>default value</key>
-						<string>~/Desktop</string>
-						<key>name</key>
-						<string>targetLocation</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>1</string>
-					</dict>
-				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
-				<key>isViewVisible</key>
-				<true/>
-				<key>location</key>
-				<string>301.500000:801.000000</string>
-				<key>nibPath</key>
-				<string>/System/Library/Automator/New Folder.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
 			<true/>
@@ -961,7 +832,7 @@
 					<key>replaceExisting</key>
 					<true/>
 					<key>toDirectory</key>
-					<string>~/Desktop/waterfall png</string>
+					<string>~/Desktop</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.MoveFiles</string>
@@ -1026,7 +897,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>301.500000:903.000000</string>
+				<string>309.000000:774.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Move Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -1166,7 +1037,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>301.500000:1092.000000</string>
+				<string>309.000000:963.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Display Notification.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -1270,7 +1141,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>301.500000:1195.000000</string>
+				<string>309.000000:1066.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Open Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -1280,13 +1151,6 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>51790EA6-E2A5-47F8-B7BC-3190AC3A2109</key>
-		<dict>
-			<key>from</key>
-			<string>7C96EA0C-FB6C-405A-BBE0-B882957EE816 - 7C96EA0C-FB6C-405A-BBE0-B882957EE816</string>
-			<key>to</key>
-			<string>A0F39F15-2440-4327-80EB-756A54AB74B0 - A0F39F15-2440-4327-80EB-756A54AB74B0</string>
-		</dict>
 		<key>6926A75A-1EB6-49A0-AF2E-4B6FA77E00A8</key>
 		<dict>
 			<key>from</key>
@@ -1301,6 +1165,13 @@
 			<key>to</key>
 			<string>79EF331C-C366-4751-B937-7044EF78EDB5 - 79EF331C-C366-4751-B937-7044EF78EDB5</string>
 		</dict>
+		<key>B8917200-ECFB-401F-95DF-2CA26C5CA73E</key>
+		<dict>
+			<key>from</key>
+			<string>469BE657-CB1F-4297-B9E9-B9F11293E882 - 469BE657-CB1F-4297-B9E9-B9F11293E882</string>
+			<key>to</key>
+			<string>A0F39F15-2440-4327-80EB-756A54AB74B0 - A0F39F15-2440-4327-80EB-756A54AB74B0</string>
+		</dict>
 		<key>BE96A345-D2FF-4D66-9310-55F14366FE20</key>
 		<dict>
 			<key>from</key>
@@ -1314,13 +1185,6 @@
 			<string>A0F39F15-2440-4327-80EB-756A54AB74B0 - A0F39F15-2440-4327-80EB-756A54AB74B0</string>
 			<key>to</key>
 			<string>C218A11E-8558-441A-99E2-7E0A5D73E487 - C218A11E-8558-441A-99E2-7E0A5D73E487</string>
-		</dict>
-		<key>FEF70695-68A2-45D5-87EE-E7DB71A14082</key>
-		<dict>
-			<key>from</key>
-			<string>469BE657-CB1F-4297-B9E9-B9F11293E882 - 469BE657-CB1F-4297-B9E9-B9F11293E882</string>
-			<key>to</key>
-			<string>7C96EA0C-FB6C-405A-BBE0-B882957EE816 - 7C96EA0C-FB6C-405A-BBE0-B882957EE816</string>
 		</dict>
 	</dict>
 	<key>variables</key>
