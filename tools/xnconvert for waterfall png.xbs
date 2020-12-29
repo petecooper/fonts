@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><XnView_script version="1.0" name="xnconvert for waterfall png">
     <Automatic_crop method="0" position="0" color="#ffffff" tolerance="0"/>
     <Border frame1_radius="0" frame1_width="50" frame1_color="#ffffff" antialias="false"/>
+    <Watermark filename="/Users/pete/repos/local/fonts/tools/repo watermark.png" opacity="80" no_alpha="false" position="2" delta_x="0" delta_y="0" perc="50" size="0"/>
+    <Clean_metadata flags="63"/>
     <Output folder="/Users/pete/Desktop" filename="{Filename}" case="0" startIndex="1" format="PNG">
         <Options overwrite="0" orgDate="false" keepMeta="false" keepICC="true" keepFolder="false" keepParentFolder="false" keepExtension="true" delOrg="false" multipage="false" allPages="false" openExplorer="false" openBrowser="false" clearItems="false"/>
-        <PNG level="0" interlaced="false" filter="0"/>
+        <PNG level="9" interlaced="false" filter="0"/>
     </Output>
 </XnView_script>
