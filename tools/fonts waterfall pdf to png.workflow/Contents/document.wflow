@@ -140,7 +140,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>301.500000:191.000000</string>
+				<string>301.500000:259.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Display Notification.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -296,7 +296,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>301.500000:391.000000</string>
+				<string>301.500000:459.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Render PDF Pages as Images.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -433,7 +433,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>301.500000:580.000000</string>
+				<string>301.500000:648.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Display Notification.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -909,7 +909,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>301.500000:793.000000</string>
+				<string>301.500000:861.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Rename Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -1031,7 +1031,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>301.500000:895.000000</string>
+				<string>301.500000:963.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Move Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -1168,7 +1168,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>301.500000:1084.000000</string>
+				<string>301.500000:1152.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Display Notification.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -1274,7 +1274,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>301.500000:1187.000000</string>
+				<string>301.500000:1255.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Open Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -1411,7 +1411,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>301.500000:1376.000000</string>
+				<string>301.500000:1444.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Display Notification.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -1474,7 +1474,7 @@
 	<key>workflowMetaData</key>
 	<dict>
 		<key>workflowTypeIdentifier</key>
-		<string>com.apple.Automator.application</string>
+		<string>com.apple.Automator.workflow</string>
 	</dict>
 </dict>
 </plist>
